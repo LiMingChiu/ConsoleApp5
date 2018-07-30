@@ -10,6 +10,8 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(556677889977);
+            Console.WriteLine(556677889977);
             Console.WriteLine(5566);
             Console.WriteLine(5566);
             Console.WriteLine(556677889977);
